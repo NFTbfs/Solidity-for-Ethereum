@@ -21,10 +21,6 @@ It takes ~ 90 seconds for the [codespace](https://github.com/features/codespaces
 
 <a href="https://github.com/codespaces/new?hide_repo_select=true&ref=master&repo=581580533"><img width="1589" alt="codespace-vscode-screenshot" src="https://user-images.githubusercontent.com/89139/210704071-3c1c5136-9d60-4beb-9f3d-a0409b57475d.png"></a>
 
-### Contributions
-
-If you find any bugs 🐛 in the contracts, in this documentation or if you have ideas 💡 of ways to make this more useful and dev friendly – please open an issue or PR on GitHub [`➔ kalaspuff/solidity-template`](https://github.com/kalaspuff/solidity-template). 🙏
-
 ## Get started
 
 These section is for setting up the environment without the use of GitHub Codespaces. The instructions expect you to be running a Linux or macOS system with Foundry and build essentials already installed.
@@ -34,8 +30,7 @@ These section is for setting up the environment without the use of GitHub Codesp
 Initialize a project with `forge init -t kalaspuff/solidity-template` to use this repo as template.
 
 ```console
-user@cpu:~/code $ forge init -t kalaspuff/solidity-template my-contract
-Initializing ./my-contract from https://github.com/kalaspuff/solidity-template...
+Initializing ./my-contract from https://github.com/NFTbfs/solidity-for-template...
 Initialized forge project.
 ```
 
@@ -309,10 +304,8 @@ We're all learning. Feedback and contributions most welcome!
 * 🤬 If you think this is 💩🐛💥🙅👎 and want to help out — shoot me a message and say hi. 🙏
 
 ```
-twitter ◼️ https://twitter.com/carloscaraaro
-coa.eth ◼️ 0x39bEb60bc4c1b8b0eBeEDC515c7A56e7DfB3a5A9
-discord ◼️ carloscar#0001
-void    ◼️ hello@carloscar.com
+skype   ◼️ live:.cid.e63fc4539934e599
+gmail   ◼️ rubydavis962@gmail.com
 ```
 
 <sup>**If we're not already friends on the internet, the risk is high that I'll miss your message.**</sub>
